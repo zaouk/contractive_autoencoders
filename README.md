@@ -10,7 +10,7 @@ I also provide in this repository extensions to the original contractive loss, t
 * 2 layers of relu non linearity
 
 
-More details here<a href='README.ipynb'>here</a>.
+More details <a href='README.ipynb'>here</a>.
 
 
 ### References:
